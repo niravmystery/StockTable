@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRStocks", "SignalRStocks\SignalRStocks.csproj", "{E41C4870-9BBD-4C65-AD2D-7FE641ADE267}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRStocks", "WpfApp1\SignalRStocks.csproj", "{47579947-D670-4548-A316-C9FC617A2D20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E41C4870-9BBD-4C65-AD2D-7FE641ADE267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E41C4870-9BBD-4C65-AD2D-7FE641ADE267}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E41C4870-9BBD-4C65-AD2D-7FE641ADE267}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E41C4870-9BBD-4C65-AD2D-7FE641ADE267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47579947-D670-4548-A316-C9FC617A2D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47579947-D670-4548-A316-C9FC617A2D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47579947-D670-4548-A316-C9FC617A2D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47579947-D670-4548-A316-C9FC617A2D20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A337646-3FDA-446A-ABAB-672ED482AEA8}
 	EndGlobalSection
 EndGlobal
